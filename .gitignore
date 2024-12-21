@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Sentence Transformers downloads
+sentence-transformers/
+*.pt
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Operating System
+.DS_Store
+Thumbs.db
